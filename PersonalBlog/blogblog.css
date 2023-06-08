@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+.header {
+    height: 60px;
+    width: 100%;
+    background-color: #003a50c7;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo {
+    height: 30px;
+    margin: 15px 125px;
+}
+
+.menu {
+    margin: 18px 135px;
+
+}
+
+.menu ul li {
+    display: inline-block;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 40px;
+}
+.blog
+{
+    text-align: center;
+    margin-top: 50px;
+    color: #386576;
+    font-size: 35px;
+}
+.box {
+    height: 550px;
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+}
+
+.box1 {
+    height: 250px;
+    width: 250px;
+    margin-left: 200px;
+
+
+}
+
+.box2 {
+    height: 250px;
+    width: 250px;
+    margin-left: 100px;
+}
+
+.box1img {
+    height: 250px;
+    width: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.box2img {
+    height: 250px;
+    width: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+.text1 {
+    text-align: center;
+    font-size: 23px;
+    color: #000;
+    margin-top: 15px;
+
+}
+.menubar
+{
+    text-decoration: none;
+    color: white;
+}
+.para1 {
+    color: #666;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.button {
+    border: none;
+    background-color: #f79d16;
+    color: #ffff;
+    padding: 7px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 82px;
+    margin-top: 45px;
+}
+
+.button a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.banner1 {
+    height: 300px;
+    width: 100%;
+    background-color: #001f50;
+
+}
+
+.text2 {
+    text-align: center;
+    color: #fff;
+    padding-top: 80px;
+    font-size: 45px;
+}
+
+.para2 {
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.bannerbox {
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 335px;
+
+}
+
+.icon {
+    color: #fff;
+    font-size: 35px;
+    padding-left: 90px;
+
+}
+
+.footer {
+    height: 60px;
+    background-color: #013f57eb;
+}
+
+.text3 {
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    padding-top: 17px;
+}

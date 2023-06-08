@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.header {
+    height: 60px;
+    width: 100%;
+    background-color: #003a50c7;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    height: 30px;
+    margin: 15px 125px;
+}
+
+.menu {
+    margin: 18px 135px;
+
+}
+
+.menu ul li {
+    display: inline-block;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 40px;
+}
+.text1 {
+    color: #386576;
+    text-align: center;
+    margin-top: 65px;
+    text-decoration-line: underline;
+    font-size: 45px;
+    font-family: sans-serif;
+    font-weight: 700;    
+}
+.menubar
+{
+    text-decoration: none;
+    color: white;
+}
+.form
+{
+    text-align: center;
+    margin-top: 25px;
+}
+.formunder
+{
+    height: 38px;
+    width: 750px;
+}
+.button
+{
+    border: 0;
+    background-color: #f79d16;
+    color: #ffff;
+    padding: 12px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 40px;
+    
+}
+.banner1 {
+    height: 300px;
+    width: 100%;
+    background-color: #001f50;
+    margin-top: 80px;
+
+}
+
+.text2 {
+    text-align: center;
+    color: #fff;
+    padding-top: 80px;
+    font-size: 45px;
+}
+
+.para2 {
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.bannerbox {
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 335px;
+
+}
+
+.icon {
+    color: #fff;
+    font-size: 35px;
+    padding-left: 90px;
+
+    
+
+}
+
+.footer {
+    height: 60px;
+    background-color: #013f57eb;
+}
+
+.text3 {
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    padding-top: 17px;
+}

@@ -1,0 +1,154 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    /* border: 2px solid red; */
+    height: 90px;
+    width: 100%;
+    background-color: #063e7f;
+    display: flex;
+    justify-content: space-between;
+    /* position: fixed; */
+}
+
+.logo {
+    height: 65px;
+    width: 175px;
+    margin-top: 12px;
+    margin-left: 115px;
+
+}
+
+.navbar {
+
+    height: 20px;
+    margin-top: 35px;
+    margin-right: 90px;
+
+}
+
+.menu {
+    text-decoration: none;
+    color: #fff;
+    padding-right: 40px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+
+}
+
+.banner {
+    height: auto;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.our {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.allbox {
+    background-color: navajowhite;
+    margin-top: 20px;
+}
+
+.box {
+    display: flex;
+}
+
+.box1 {
+    height: 300px;
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 95px;
+    /* border: 2px solid black; */
+
+}
+
+.box1img {
+    height: 150px;
+    width: 300px;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+
+}
+
+.box1pa {
+    margin-top: 5px;
+    text-align: justify;
+    color: black;
+}
+
+.button {
+    float: right;
+    margin-top: 10px;
+    border: none;
+    background-color: white;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+.footer {
+    height: 120px;
+    width: 100%;
+    background-color:palevioletred;
+    display: flex;
+}
+
+.footerbox {
+
+    height: 120px;
+    width: 270px;
+    margin-left: 100px;
+}
+
+.footerbox1 {
+
+    height: 120px;
+    width: 270px;
+    margin-left: 600px;
+}
+
+.minboxl {
+    height: 60px;
+    width: 75px;
+    margin-left: 135px;
+
+}
+
+.minimg {
+    height: 30px;
+    margin-top: 20px;
+}
+
+.minbox2 {
+    height: 60px;
+    width: 320px;
+}
+
+.img1 {
+    height: 41px;
+    margin-top: 15px;
+
+}
+
+.r {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+    margin-left: 10px;
+
+}

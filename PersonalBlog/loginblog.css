@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+.header {
+    height: 60px;
+    width: 100%;
+    background-color: #003a50c7;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo {
+    height: 30px;
+    margin: 15px 125px;
+}
+
+.menu {
+    margin: 18px 135px;
+
+}
+.menubar
+{
+    text-decoration: none;
+    color: white;
+}
+
+.menu ul li  {
+    display: inline-block;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 40px;
+}
+.banner {
+    height: 600px;
+    width: 100%;
+    background-image: url(https://personalblogweb-himanshu-v3pu.onrender.com/assets/images/photopix.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box
+{
+    height: 400px;
+    width: 600px;
+    background-color: rgb(37, 35, 35);
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 350px;
+    box-shadow: 0px 1px 5px 5px white ;
+    
+}
+.text1
+{
+    text-align: center;
+    padding-top: 20px;
+    font-family: cursive;
+    font-weight: 600;
+}
+.para1
+{
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+
+}
+.email
+{
+    background-color: #fff;
+    height: 40px;
+    width: 520px;
+    padding-left: 10px;
+    margin-left: 40px;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.password {
+    background-color: rgb(72, 67, 67);
+    color: white;
+    height: 40px;
+    width: 520px;
+    padding-left: 10px;
+    margin-left: 40px;
+    font-size: 20px;
+    border-radius: 8px;
+
+}
+.button
+{
+    background-color: orange;
+    color: #fff;
+    padding: 10px 25px 10px 30px;
+    border-radius: 14px;
+    font-size: 18px;
+    border: none;
+    margin-left: 230px;
+    margin-top: 20px;
+
+}
+.regi
+{
+    text-decoration: none;
+    color: orange;
+}
+.banner1 {
+    height: 300px;
+    width: 100%;
+    background-color: #001f50;
+
+}
+
+.text2 {
+    text-align: center;
+    color: #fff;
+    padding-top: 80px;
+    font-size: 45px;
+}
+
+.para2 {
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.bannerbox {
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 335px;
+
+}
+
+.icon {
+    color: #fff;
+    font-size: 35px;
+    padding-left: 90px;
+
+    
+
+}
+
+.footer {
+    height: 60px;
+    background-color: #013f57eb;
+}
+
+.text3 {
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    padding-top: 17px;
+}

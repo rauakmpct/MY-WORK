@@ -1,0 +1,334 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    height: 45px;
+    width: 100%;
+    background-color: #202020;
+}
+
+.text {
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px
+}
+
+.box1 {
+    /* border: 2px solid black; */
+    height: 100px;
+    width: 100%;
+    display: flex;
+    background-color: #fff;
+    
+}
+
+.minibox {
+    height: 25px;
+    width: 250px;
+    /* border: 2px solid red; */
+    margin: 40px 60px;
+}
+
+.aboutus:hover {
+    border-bottom: 3px solid #202020;
+    width: auto;
+}
+
+.minibox1 {
+    /* border: 2px solid RED; */
+    height: 80px;
+    width: 300px;
+    margin: 20px 100px 0px 280px;
+}
+
+.minibox2 {
+    /* border: 2px solid red; */
+    height: 30px;
+    width: 300px;
+    margin: 35px;
+}
+
+.box2 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/preview_images/5ecb2e4b88d9442cb426a33040dc7f3c.thumbnail.0000000000_1512x.jpg?v=1681327205);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 750px;
+    width: 100%;
+}
+
+.boxmini2 {
+
+    padding-top: 250px;
+    line-height: 100px;
+    padding-left: 85px;
+}
+
+.box3 {
+    /* border: 2px solid red; */
+    height: 300px;
+    width: 100%;
+    display: flex;
+    padding-left: 50px;
+}
+
+.box3a {
+    /* border: 2px solid black; */
+    height: 300px;
+    width: 300px;
+    font-size: 18px;
+
+}
+
+.box4 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/Untitled_design_28_1400x.jpg?v=1676613103);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: cover;
+    background-position: center;
+    /* border: 2px solid red; */
+    height: 600px;
+    width: 100%;
+    display: flex;
+}
+
+.box4a {
+    padding-top: 220px;
+    line-height: 100px;
+    padding-left: 85px;
+}
+
+.box5 {
+    display: flex;
+}
+
+.box5a {
+    /* border: 2px solid red; */
+    height: 650px;
+    width: 650px;
+    margin-left: 60px;
+}
+
+.box5b {
+    /* border: 2px solid red; */
+    height: 300px;
+    width: 300px;
+    margin-left: 120px;
+    line-height: 60px;
+    margin-top: 180px;
+}
+
+.btn0:hover {
+    background-color: #37393a !important;
+}
+
+.box6 {
+    /* border: 2px solid red; */
+    background: #000000;
+    height: 1380px;
+    width: 100%;
+}
+
+.box6A {
+    display: flex;
+}
+
+.box6a {
+    /* border: 2px solid red; */
+    height: 580px;
+    width: 750px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/5_8b6db216-3434-46af-afbf-c30498d8e56b_720x.jpg?v=1677307187);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 100px 30px 0px 45px;
+}
+
+.box6aa {
+    padding-top: 425px;
+    padding-left: 25px;
+    line-height: 70px;
+}
+
+.btn:hover {
+    background-color: #000000;
+    color: #fff !important;
+}
+
+.box6b {
+    /* border: 2px solid red; */
+    height: 580px;
+    width: 750px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/6_d05f6b5b-25e6-4b0f-b91c-7d03d614709b_720x.jpg?v=1677307021);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 100px 40px 0px 0px;
+}
+
+.box6B {
+    display: flex;
+}
+
+.box6c {
+    /* border: 2px solid red; */
+    height: 550px;
+    width: 550px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/Website_Banner_Symmetry_mobile_view_10_540x.jpg?v=1677390877);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px 30px 0px 45px;
+}
+
+.box6cc {
+    padding-top: 400px;
+    padding-left: 25px;
+    line-height: 70px;
+}
+
+.box6d {
+    /* border: 2px solid red; */
+    height: 550px;
+    width: 835px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/8_8b01de82-c779-4eaf-b7ee-adf0b6d9c4ce_720x.jpg?v=1677307187);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px 40px 0px 0px;
+}
+
+.box7 {
+    /* border: 2px solid red; */
+    height: 500px;
+    width: 100%;
+    display: flex;
+    position: relative;
+}
+
+.box7a {
+    height: 500px;
+    width: 500px;
+    margin-top: 120px;
+    margin-left: 40px;
+}
+
+.maindiv {
+    position: absolute;
+}
+
+.classone {
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/Website_Banner_Symmetry_mobile_view_360x.jpg?v=1677270497);
+    background-repeat: no-repeat;
+    z-index: 0;
+}
+
+.classtwo {
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/1_725c306e-386c-4914-bb42-72619775e028_360x.jpg?v=1675233478);
+    background-repeat: no-repeat;
+    z-index: -1;
+    top: -40px;
+    left: 320px;
+}
+
+.box7b {
+    /* border: 2px solid black; */
+    height: 250px;
+    width: 500px;
+    margin-top: 160px;
+    margin-left: 870px;
+    line-height: 28px;
+
+}
+
+.box8 {
+    /* border: 2px solid red; */
+    height: 300px;
+    width: 100%;
+    display: flex;
+    padding-left: 35px;
+}
+
+.boxabc {
+    /* border: 2px solid yellow; */
+    height: 300px;
+    display: flex;
+    margin: 0px 0px 0px 155px;
+}
+
+.box8a {
+    /* border: 2px solid black; */
+    height: 250px;
+    width: 280px;
+    line-height: 20px;
+    margin-left: 65px;
+}
+
+.box9 {
+    /* border: 2px solid red; */
+    height: 650px;
+    width: 100%;
+    background-image: url("https://cdn.shopify.com/s/files/1/0907/2228/files/preview_images/e79a072b5e1f4b94954eef17f2df0514.thumbnail.0000000000_1512x.jpg?v=1677935729");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box9a {
+    line-height: 80px;
+    padding-top: 250px;
+}
+
+.box10 {
+    /* border: 2px solid red; */
+    height: 120px;
+    width: 100%;
+    display: flex;
+    background-color: #f8f8f8d5;
+    padding-left: 25px;
+}
+
+.box10a {
+    /* border: 2px solid black; */
+    height: 100px;
+    width: 350px;
+    text-align: center;
+    line-height: 35px;
+    padding: 30px;
+}
+
+.box11 {
+    /* border: 2px solid red; */
+    height: 420px;
+    width: 100%;
+    display: flex;
+
+}
+
+.box11a {
+    /* border: 2px solid black; */
+    height: 300px;
+    width: 550px;
+    padding-left: 80px;
+}
+
+.box12 {
+    /* border: 2px solid red; */
+    height: 150px;
+    width: 100%;
+    border-top: 1px solid #e4eef3;
+    display: flex;
+}
+
+.box12a {
+    /* border: 2px solid black; */
+    height: 50px;
+    width: 500px;
+    margin-top: 60px;
+    margin-left: 65px;
+}
+
+.box12b {
+    /* border: 2px solid black; */
+    height: 50px;
+    width: 800px;
+    margin-top: 60px;
+    margin-left: 70px;
+}
